@@ -4,7 +4,6 @@ import { useRef } from "react";
 import { motion } from "framer-motion";
 import { ArrowUpRight, Zap, Users, Code, ShoppingBag } from "lucide-react";
 
-// ✅ Pindahkan ini ke sini (di dalam file)
 const services = [
   {
     title: "Digital Campaigns",
