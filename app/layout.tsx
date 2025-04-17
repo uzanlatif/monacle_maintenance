@@ -6,7 +6,7 @@ import type { Metadata } from "next"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Under Maintenance | Monocle Agency",
+  title: "Under Maintenance | Monocle Digital Agency",
   description: "We're reinventing ourselves. A bold new Monocle Agency experience is coming soon.",
     generator: 'v0.dev'
 }
